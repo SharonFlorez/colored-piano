@@ -1,3 +1,7 @@
+# Description
+
+This project is a simple application of a colored piano, where if you press on any key the sound is played immediately.
+
 # Piano
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
