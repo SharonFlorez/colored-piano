@@ -1,3 +1,4 @@
+<h1 class="text">Press each of the piano keys and listen to the sound</h1>
 <div class="list-group" *ngFor="let key of resources">
   <a class="list-group-item list-group-item-action" [style.background-color]="key.color" (click)="playAudio(key.audio)"></a>
 </div>
